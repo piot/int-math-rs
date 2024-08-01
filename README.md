@@ -18,7 +18,7 @@ Add `int_math` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-int_math = "0.1"  # Replace with the latest version
+int_math = "0.0.1"
 ```
 
 Then, use it in your code:
