@@ -1,0 +1,9 @@
+[package]
+name = "int_math"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "Integer math"
+repository = "https://github.com/piot/int-math-rs"
+
+[dependencies]
