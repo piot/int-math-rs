@@ -337,7 +337,6 @@ impl From<(u32, u32, u32, u32)> for RectU {
     }
 }
 
-
 /// A 2D rectangle with integer coordinates for position and unsigned integer dimensions.
 ///
 /// This struct represents a rectangle in a 2D space where the position is specified
@@ -443,7 +442,6 @@ impl RectI {
             self.position.y + self.size.y as i32 / 2,
         )
     }
-
 
     /// Returns a new `RectI` instance with the specified offset applied to its position.
     ///
