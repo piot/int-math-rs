@@ -1,4 +1,4 @@
-# int_math
+# 📐 int_math
 
 `int_math` is a Rust crate providing mathematical abstractions for 2D vectors and rectangles. It includes:
 
@@ -8,18 +8,18 @@
 - **`URect`**: A rectangle with unsigned integer coordinates for position and size.
 - **`Rect`**: A rectangle with signed integer coordinates for position and unsigned integer dimensions.
 
-## Features
+## ✨ Features
 
 - **Vector Operations**: Supports basic arithmetic operations for `UVec2` and `Vec2`.
 - **Rectangles**: Provides methods to create and manipulate rectangles, including calculating centers and applying offsets.
 
-## Usage
+## 📦 Installation
 
 Add `int_math` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-int_math = "0.0.1"
+int_math = "0.0.2"
 ```
 
 Then, use it in your code:
